@@ -2,3 +2,28 @@ hi
 Gokul
 sdf
 this is important line
+hello
+heeeeeeeeeeeeeeeeeeeeeee
+sssssssssssssssssssssssssssssssss
+gggggggggggggggggggggggggggggggg
+hill
+AI POWERED COMPETITIVE EXAM PORTAL
+aaaaaaaaaaaaaaaaaaaaaa
+
+NAME OF THE STUDENTS : NANDHAKUMARAN T (22TH0266) , SENTHAMIZH B
+(22TH0292) , MOHAN KUMAR (22TH0262), MANOJ PRABAGAR(22TH0253)
+DEPARTMENT / YEAR / SEC:  INFORMATION TECHNOLOGY/ IV / A
+NAME OF THE GUIDE :  MRS.B.V.SARANYA                            PROJECT BATCH : A-12 BATCH : 2022-2026
+
+
+NAME OF THE STUDENTS : ARUN. J (23TH0206), BALRAM. P. K (23TH0212),  LOGARAM. S (23TH0246), PRAVEEN. M (23TH0274)
+DEPARTMENT / YEAR / SEC:  INFORMATION TECHNOLOGY/ III / A
+NAME OF THE GUIDE :  Mr. S. UTHAYASHANGAR, M.Tech, Ph.D.                                       PROJECT BATCH : A-04
+BATCH : 2023-2027
+ABSTRACT
+
+
+
+ABSTRACT
+​ExamAI is a centralized AI-powered web platform designed using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Google Gemini AI to streamline the process of discovering, registering for, and tracking competitive examinations in India. It addresses information fragmentation across official portals through automated web scraping, profile-based smart eligibility verification, an interactive AI chatbot, OCR document verification, QR-code hall ticket generation, and real-time alerts.  
+​EXISTING SYSTEM VS. PROPOSED SYSTEM
